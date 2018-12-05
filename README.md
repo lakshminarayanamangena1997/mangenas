@@ -1,2 +1,3 @@
 # Mangenas
-Documentation purpose
+###Documentation purpose
+1.samoleunderstanding about, how git works....
