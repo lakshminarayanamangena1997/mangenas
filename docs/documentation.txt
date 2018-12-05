@@ -1,0 +1,5 @@
+samplerepo documents
+1.accounts created
+2.activated mail for git
+3.new repo created+checked toinitialize the readme.md
+created
