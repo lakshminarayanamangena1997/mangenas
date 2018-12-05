@@ -1,2 +1,2 @@
-# mangenas
+# Mangenas
 Documentation purpose
